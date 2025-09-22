@@ -45,7 +45,7 @@ class Route(BaseMixin, db.Model):
     #relates to bus schedules
     schedules = db.relationship(
         'Schedule',
-        backref='route', 
+        backref='route',
         lazy=True
     )
 
