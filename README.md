@@ -24,5 +24,13 @@ Tech Stack
 Project Structure
   to follow...
 
+Data Source
+  Bus schedule data is sourced from the official Ethekwini Bus Schedule PDF, containing:
   
+  Durban Transport routes
   
+  Mynah bus services
+  
+  People Mover schedules
+  
+  Central, North, and South region timetables
